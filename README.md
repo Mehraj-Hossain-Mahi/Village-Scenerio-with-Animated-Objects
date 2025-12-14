@@ -67,5 +67,6 @@ animated OpenGL project that is original and beyond basic lab tasks.
 **Anzir Rahman Khan**  
 **Mehraj Hossain Mahi**  
 
-BSc in Software Engineering  
-American University of Malta
+BSc in Computer Science & Engineering
+Daffodil International University
+Dhaka, Bangladesh
